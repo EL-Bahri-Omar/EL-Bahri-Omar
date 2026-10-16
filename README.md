@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./images/hellocoders_omar.gif" alt="Hello Coders" width="60%"/> <br>
+<img src="./images/hellocoders_omar.gif" alt="Hello Coders" width="60%"/>
 </div>
 
 <br>
@@ -38,10 +38,7 @@ I support **Real Madrid**.
 - 💻 Ask me about **React Native, Flutter, Spring Boot, React, MongoDB, Firebase, REST APIs and Full-Stack Development**;
 - 🎨 I'm interested in **Mobile Development, Full-Stack Development, UI/UX, Cloud & DevOps, and AI-powered applications**;
 - ⚙️ Currently building **SmartFactory Manager**, an intelligent industrial monitoring and predictive maintenance platform;
-- 
- <img align="right" height="330" width="30%" src="./images/elbahriomar.png" alt="I am EL Bahri Omar" />
- 
-<br clear="right"/>
+
 
 **Languages and Tools:**
 <br>
