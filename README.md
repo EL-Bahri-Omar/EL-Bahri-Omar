@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="./images/hellocoders_omar.gif" alt="Hello Coders" width="60%"/> <br>
-<img src="./images/elbahriomar.png" alt="I am EL Bahri Omar" width="80%"/><br>
 
 <p><strong>Currently coding & building:</strong></p>
 
@@ -21,7 +20,7 @@ I support **Manchester United** 👿 and **Barcelona** 😎.
 
 <br>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+<img align="right" src="./images/elbahriomar.png" alt="I am EL Bahri Omar" />
 
 - 🎓 I'm currently completing my **Master's degree in Mobile Application Development**;
 - 📱 I enjoy building **mobile and web applications**, from UI/UX design to backend APIs, databases and deployment;
@@ -98,16 +97,12 @@ I support **Manchester United** 👿 and **Barcelona** 😎.
 
 ### 📢 Find me elsewhere
 <p align="left">
-  <a href="https://github.com/EL-Bahri-Omar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github">
+  <a href="https://elbahriomar.vercel.app/">
+    <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/11067273-botao-portfolio-bolha-do-discurso-de-portfolio-banner-web-colorido-de-portfolio-ilustracaoial-vetor.jpg" alt="portpholio">
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/el-bahri-omar-dev69">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://twitter.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 
