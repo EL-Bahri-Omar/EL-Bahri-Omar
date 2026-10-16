@@ -1,11 +1,12 @@
 <div align="center">
   <img src="./images/hellocoders_omar.gif" alt="Hello Coders" width="48%" height="260"/>
-  <img src="./images/elbahriomar.png" alt="I am EL Bahri Omar" width="48%" height="260"/>
+  <img src="./images/elbahriomar.png" alt="I am EL Bahri Omar" width="48%" height="160"/>
 </div>
 
 <br>
 
-Hi, I'm [EL Bahri Omar](https://github.com/EL-Bahri-Omar), a mobile and web developer 👨🏻‍💻 from Tunisia. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I'm proud to say that **I can succesfully build full-stack applications from UI/UX to deployment.** Beside's Hacking stuff, I play chess ♘ and Football ⚽.
+Hi, I'm [EL Bahri Omar](https://github.com/EL-Bahri-Omar), a mobile and web developer 👨🏻‍💻 from Tunisia. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I'm proud to say that **I can succesfully build full-stack applications from UI/UX to deployment.** Beside's Development stuff, I play chess ♘ and Football ⚽.
+
 I support 🤍 *ℝ𝔼𝔸𝕃 𝕄𝔸𝔻ℝ𝕀𝔻* 🤍.
 
 <br>
