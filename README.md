@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="./images/hellocoders_omar.gif" alt="Hello Coders" width="48%" height="360"/>
-  <img src="./images/elbahriomar.png" alt="I am EL Bahri Omar" width="48%" height="160"/>
+<div >
+  <img src="./images/hellocoders_omar.gif" alt="Hello Coders" width="60%"/>
+  <img src="./images/elbahriomar.png" alt="I am EL Bahri Omar" width="90%"/>
 </div>
 
 <br>
