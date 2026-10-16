@@ -16,7 +16,19 @@ I support **Real Madrid**.
 
 <br>
 
-<img align="right" width="30%" src="./images/elbahriomar.png" alt="I am EL Bahri Omar" />
+### 📢 Find me elsewhere
+<p align="left">
+  <a href="https://elbahriomar.vercel.app/">
+    <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/11067273-botao-portfolio-bolha-do-discurso-de-portfolio-banner-web-colorido-de-portfolio-ilustracaoial-vetor.jpg" alt="portpholio">
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/el-bahri-omar-dev69">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  </a>&nbsp;&nbsp;&nbsp;
+</p>
+
+
+<img align="right" height="30%" width="30%" src="./images/elbahriomar.png" alt="I am EL Bahri Omar" />
 
 - 🎓 I'm currently completing my **Master's degree in Mobile Application Development**;
 - 📱 I enjoy building **mobile and web applications**, from UI/UX design to backend APIs, databases and deployment;
@@ -90,17 +102,6 @@ I support **Real Madrid**.
 </div>
 
 <hr>
-
-### 📢 Find me elsewhere
-<p align="left">
-  <a href="https://elbahriomar.vercel.app/">
-    <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/11067273-botao-portfolio-bolha-do-discurso-de-portfolio-banner-web-colorido-de-portfolio-ilustracaoial-vetor.jpg" alt="portpholio">
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/el-bahri-omar-dev69">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
-  </a>&nbsp;&nbsp;&nbsp;
-</p>
 
 <div align="center">
 
