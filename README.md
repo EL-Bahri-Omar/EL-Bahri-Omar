@@ -1,9 +1,5 @@
 <div align="center">
-
 <img src="./images/hellocoders_omar.gif" alt="Hello Coders" width="60%"/> <br>
-
-<br>
-
 </div>
 
 <hr>
@@ -18,7 +14,7 @@ I support **Real Madrid**.
 
 </div>
 
-<br>
+<hr>
 
 ### 📢 Find me elsewhere
 <p align="left">
@@ -31,8 +27,9 @@ I support **Real Madrid**.
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 
+<hr>
 
-<img align="right" height="230" width="30%" src="./images/elbahriomar.png" alt="I am EL Bahri Omar" />
+<img align="right" height="330" width="30%" src="./images/elbahriomar.png" alt="I am EL Bahri Omar" />
 
 - 🎓 I'm currently completing my **Master's degree in Mobile Application Development**;
 - 📱 I enjoy building **mobile and web applications**, from UI/UX design to backend APIs, databases and deployment;
