@@ -11,15 +11,19 @@
 Hi, I'm [EL Bahri Omar](https://github.com/EL-Bahri-Omar), a mobile and web developer 👨🏻‍💻 from Tunisia. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I'm proud to say that **I can succesfully build full-stack applications from UI/UX to deployment.** Beside's Hacking stuff, I play chess ♘ and Football ⚽.
 I support **Real Madrid**.
 
+<div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=EL-Bahri-Omar&style=flat&color=orange&label=PROFILE+VIEWS)
 ![GitHub Followers](https://img.shields.io/github/followers/EL-Bahri-Omar?style=flat&label=FOLLOWERS)
+
+</div>
 
 <br>
 
 ### 📢 Find me elsewhere
 <p align="left">
   <a href="https://elbahriomar.vercel.app/">
-    <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/11067273-botao-portfolio-bolha-do-discurso-de-portfolio-banner-web-colorido-de-portfolio-ilustracaoial-vetor.jpg" alt="portpholio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio">
   </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/el-bahri-omar-dev69">
@@ -28,7 +32,7 @@ I support **Real Madrid**.
 </p>
 
 
-<img align="right" height="30%" width="30%" src="./images/elbahriomar.png" alt="I am EL Bahri Omar" />
+<img align="right" height="230" width="30%" src="./images/elbahriomar.png" alt="I am EL Bahri Omar" />
 
 - 🎓 I'm currently completing my **Master's degree in Mobile Application Development**;
 - 📱 I enjoy building **mobile and web applications**, from UI/UX design to backend APIs, databases and deployment;
@@ -36,7 +40,7 @@ I support **Real Madrid**.
 - 🎨 I'm interested in **Mobile Development, Full-Stack Development, UI/UX, Cloud & DevOps, and AI-powered applications**;
 - ⚙️ Currently building **SmartFactory Manager**, an intelligent industrial monitoring and predictive maintenance platform;
  
-<br>
+<br clear="right"/>
 
 **Languages and Tools:**
 <br>
