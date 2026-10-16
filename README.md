@@ -2,25 +2,21 @@
 
 <img src="./images/hellocoders_omar.gif" alt="Hello Coders" width="60%"/> <br>
 
-<p><strong>Currently coding & building:</strong></p>
-
-🚀 Mobile Applications • 🌐 Web Applications • ⚙️ Backend Systems • 🎨 UI/UX
-
 <br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=EL-Bahri-Omar&style=flat&color=orange&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/EL-Bahri-Omar?style=flat&label=FOLLOWERS)
 
 </div>
 
 <hr>
 
 Hi, I'm [EL Bahri Omar](https://github.com/EL-Bahri-Omar), a mobile and web developer 👨🏻‍💻 from Tunisia. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I'm proud to say that **I can succesfully build full-stack applications from UI/UX to deployment.** Beside's Hacking stuff, I play chess ♘ and Football ⚽.
-I support **Manchester United** 👿 and **Barcelona** 😎.
+I support **Real Madrid**.
+
+![Profile Views](https://komarev.com/ghpvc/?username=EL-Bahri-Omar&style=flat&color=orange&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/EL-Bahri-Omar?style=flat&label=FOLLOWERS)
 
 <br>
 
-<img align="right" src="./images/elbahriomar.png" alt="I am EL Bahri Omar" />
+<img align="right" width="30%" src="./images/elbahriomar.png" alt="I am EL Bahri Omar" />
 
 - 🎓 I'm currently completing my **Master's degree in Mobile Application Development**;
 - 📱 I enjoy building **mobile and web applications**, from UI/UX design to backend APIs, databases and deployment;
