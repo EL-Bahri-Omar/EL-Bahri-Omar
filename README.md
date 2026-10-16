@@ -1,4 +1,4 @@
-<div >
+<div align="center" width="50" >
   <img src="./images/hellocoders_omar.gif" alt="Hello Coders" width="60%"/>
   <img src="./images/elbahriomar.png" alt="I am EL Bahri Omar" width="90%"/>
 </div>
