@@ -5,7 +5,7 @@
 
 <br>
 
-Hi, I'm <a href="https://github.com/EL-Bahri-Omar" target="_blank" rel="noopener noreferrer">*EL Bahri Omar*</a>, a mobile and web developer 👨🏻‍💻 from Tunisia. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I'm proud to say that **I can succesfully build full-stack applications from UI/UX to deployment.** Beside's Development stuff, I play chess ♘ and Football ⚽.
+Hi, I'm [*EL Bahri Omar*](https://github.com/EL-Bahri-Omar), a mobile and web developer 👨🏻‍💻 from Tunisia. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. I'm proud to say that **I can succesfully build full-stack applications from UI/UX to deployment.** Beside's Development stuff, I play chess ♘ and Football ⚽.
 
 I support 🤍 *ℝ𝔼𝔸𝕃 𝕄𝔸𝔻ℝ𝕀𝔻* 🤍.
 
@@ -22,11 +22,11 @@ I support 🤍 *ℝ𝔼𝔸𝕃 𝕄𝔸𝔻ℝ𝕀𝔻* 🤍.
 
 ### 📢 Find me elsewhere
 <p align="left">
-  <a href="https://elbahriomar.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://elbahriomar.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio">
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/el-bahri-omar-dev69" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/el-bahri-omar-dev69">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>&nbsp;&nbsp;&nbsp;
 </p>
